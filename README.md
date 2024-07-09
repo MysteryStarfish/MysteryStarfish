@@ -1,7 +1,6 @@
 ### 👋哈囉，我是 MysteryStarfish
 
 我會在[部落格](https://mysterystarfish.github.io/)裡更新近期大小事
-目前正在進行英文盲打30天挑戰!
 <!--
 **MysteryStarfish/MysteryStarfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
